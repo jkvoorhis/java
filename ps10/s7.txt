@@ -1,0 +1,200 @@
+20
+Name: Brae X. Zamin
+Address: 846 West 4486 South
+San Francisco
+California
+05182
+Phone: 332 421 1785
+Id: 100
+Major: Accounting
+GPA: 1.55
+
+Name: Massimo Q. Kirkland
+Address: 552 North 1544 West
+Fresno
+Massachusetts
+18472
+Phone: 748 532 5628
+Id: 101
+Major: Communication
+GPA: 3.72
+
+Name: John H. Eby
+Address: 717 East 0106 South
+Riverside
+Maine
+28418
+Phone: 140 667 2878
+Id: 102
+Major: Nursing
+GPA: 0.32
+
+Name: Nasir B. Black
+Address: 155 South 6421 West
+Jackson
+Hawaii
+55250
+Phone: 535 454 2224
+Id: 103
+Major: Biochemistry
+GPA: 2.11
+
+Name: Oran F. Milton
+Address: 833 South 0277 East
+Glendale
+Pennsylvania
+46782
+Phone: 274 264 4063
+Id: 104
+Major: Nursing
+GPA: 3.9
+
+Name: Levin Y. Busch
+Address: 6681 Young Oak
+Fresno
+California
+43408
+Phone: 408 068 8040
+Id: 105
+Major: Art
+GPA: 2.8
+
+Name: Urian C. Espinosa
+Address: 253 South 2684 North
+Sherman
+Utah
+14763
+Phone: 168 083 0250
+Id: 106
+Major: Pre-Dental
+GPA: 3.85
+
+Name: Linton O. Candaele
+Address: 616 North 6771 East
+Moscow
+Maine
+76737
+Phone: 184 325 5823
+Id: 107
+Major: Economics
+GPA: 3.99
+
+Name: Finian P. Douville
+Address: 085 West 1837 North
+Atlanta
+Arkansas
+10412
+Phone: 021 883 8783
+Id: 108
+Major: Communication
+GPA: 2.16
+
+Name: Anwar U. Black
+Address: 500 North 1832 South
+Seattle
+Colorado
+04688
+Phone: 587 211 1168
+Id: 109
+Major: Social Work
+GPA: 2.37
+
+Name: Lennon Z. Farell
+Address: 372 East 8211 West
+Chicago
+South Dakota
+11453
+Phone: 576 872 5342
+Id: 110
+Major: Behavior Science
+GPA: 0.30
+
+Name: Nancy U. Mayfield
+Address: 565 East 8823 West
+Salt Lake
+Kansas
+42368
+Phone: 741 825 6003
+Id: 111
+Major: Marketing
+GPA: 3.15
+
+Name: Leif T. Smith
+Address: 272 East 0587 East
+Washington
+New Jersey
+04730
+Phone: 424 414 0826
+Id: 112
+Major: Marketing
+GPA: 0.57
+
+Name: Shakir T. Keil
+Address: 634 East 4186 North
+Maryville
+Colorado
+00603
+Phone: 306 841 3647
+Id: 113
+Major: Behavior Science
+GPA: 2.84
+
+Name: Kyne O. Calichman
+Address: 1414 Herbert
+Salt Lake
+Montana
+26818
+Phone: 711 861 8772
+Id: 114
+Major: Fine Arts
+GPA: 1.87
+
+Name: Gerald F. Balitzer
+Address: 264 East 5727 South
+St. Paul
+Minnesota
+13151
+Phone: 378 417 4272
+Id: 115
+Major: Theater
+GPA: 0.47
+
+Name: Brady M. Nelson
+Address: 658 South 7062 South
+Eugene
+Louisiana
+45110
+Phone: 306 585 2623
+Id: 116
+Major: Music
+GPA: 0.91
+
+Name: Joshua C. Affin
+Address: 334 West 1831 East
+Stuckyville
+Maine
+36325
+Phone: 181 428 1145
+Id: 117
+Major: Ballet
+GPA: 0.67
+
+Name: Yasir V. Adamson
+Address: 6802 Cornell
+Richfield
+Washington
+53748
+Phone: 277 442 3832
+Id: 118
+Major: Economics
+GPA: 0.15
+
+Name: Gregg D. Baduini
+Address: 758 East 5075 North
+Riverton
+Minnesota
+73025
+Phone: 751 780 7080
+Id: 119
+Major: Geography
+GPA: 2.06

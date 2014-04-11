@@ -1,0 +1,101 @@
+10
+Name: Reid I. Sampson
+Address: 0868 Good One
+Denver
+South Carolina
+52040
+Phone: 030 516 7050
+Id: 100
+Major: History
+GPA: 3.86
+
+Name: Saville G. Candaele
+Address: 388 East 5381 East
+Bahgdad
+Kentucky
+54277
+Phone: 277 564 4222
+Id: 101
+Major: Philosophy
+GPA: 3.32
+
+Name: Kamal B. Gilbert
+Address: 254 South 4062 West
+Riverton
+Utah
+58030
+Phone: 802 542 4135
+Id: 102
+Major: Social Work
+GPA: 2.14
+
+Name: Jodie X. Espinosa
+Address: 855 North 2715 West
+Pomona
+Massachusetts
+60334
+Phone: 883 351 5758
+Id: 103
+Major: Mechanical Engineering
+GPA: 2.59
+
+Name: Kareem O. Ashmiller
+Address: 526 North 5863 East
+Salt Lake
+New Mexico
+16683
+Phone: 747 244 4288
+Id: 104
+Major: Physics
+GPA: 1.70
+
+Name: Adar I. Adolfo
+Address: 470 West 7550 East
+Bakersville
+New York
+60406
+Phone: 075 031 4450
+Id: 105
+Major: Law
+GPA: 1.86
+
+Name: Chad A. Fucaloro
+Address: 836 South 6263 East
+Las Vegas
+Maine
+74563
+Phone: 322 672 1680
+Id: 106
+Major: Art
+GPA: 0.75
+
+Name: Mary X. Gilbert
+Address: 478 North 7241 West
+Garrison
+Connecticut
+30856
+Phone: 121 286 5016
+Id: 107
+Major: Geography
+GPA: 0.46
+
+Name: Kasim J. BlackBurn
+Address: 276 North 5276 West
+Bakersville
+Indiana
+63376
+Phone: 084 183 4301
+Id: 108
+Major: History
+GPA: 0.30
+
+Name: Christie K. Kim
+Address: 2606 Harvard
+Corte Madera
+California
+16524
+Phone: 711 152 4728
+Id: 109
+Major: Ballet
+GPA: 2.13
+
